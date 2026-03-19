@@ -1,0 +1,50 @@
+# Maven/Java
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+!.mvn/wrapper/maven-wrapper.cfg
+**/log/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+*.project
+*.classpath
+# Eclipse
+.project
+.classpath
+# IntelliJ
+*.iml
+.idea/
+# VS Code
+.vscode/
+# OS files
+.DS_Store
+Thumbs.db
+# Node/React
+node_modules/
+build/
+/dist/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Gradle (if any)
+.gradle/
+build/
+# Temporary files
+*.tmp
+*.swp
+# Packages
+*.zip
+*.tar.gz
+# Security
+*.key
+*.pem
+# Generated files
+*.generated
+# Others
+*.DS_Store
